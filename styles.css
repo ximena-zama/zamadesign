@@ -1,0 +1,20 @@
+/** Esta es una hoja de estilos externa**/
+
+body {
+    background-color: #F5E4E0;
+}
+
+#contenido {
+    border: 2px solid #F5E4E0; width: 500px; margin: 200px auto;
+}
+
+#botones { 
+    border: 0px solid #F5E4E0; width: 250px; margin: 25px auto;
+}
+
+/**
+#botones { 
+    border: 0px solid #F6DDD7; width: 250px; margin: 25px auto;
+}
+
+**/
